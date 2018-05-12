@@ -12,6 +12,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/33654
     wikipedia: https://en.wikipedia.org/wiki/Stephen_McKenna_(novelist)
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/46189#While-I-Remember
 gutenberg_issued: '2014-07-04'
 gutenberg_type: Text
 identifiers:
