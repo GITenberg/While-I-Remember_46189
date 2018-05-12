@@ -1,0 +1,34 @@
+_repo: While-I-Remember_46189
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 46189-h/images/cover.jpg
+creator:
+  author:
+    agent_name: McKenna, Stephen
+    birthdate: 1888
+    deathdate: 1967
+    gutenberg_agent_id: '33654'
+    url: http://www.gutenberg.org/2009/agents/33654
+    wikipedia: https://en.wikipedia.org/wiki/Stephen_McKenna_(novelist)
+description: ''
+gutenberg_issued: '2014-07-04'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '46189'
+  lccn: '21020905'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Great Britain -- Social conditions'
+- !lcc 'DA'
+- !lcsh 'World War, 1914-1918'
+- !lcsh 'Great Britain -- Politics and government -- 20th century'
+tableOfContents: Westminster -- A setting and a date -- Christ Church -- London and
+  elsewhere -- The fringe of politics -- On the eve -- The fringe of war -- At the
+  liberal grave-side -- On the road to Washington, and after -- London again -- Demobilisation
+  -- Literary totems -- Politics in a dissolving view -- A memory retouched.
+title: While I Remember
+url: http://www.gutenberg.org/ebooks/46189
